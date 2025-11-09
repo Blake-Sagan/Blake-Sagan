@@ -1,16 +1,23 @@
-## Hi there 👋
+# About Me
+I'm a 2nd year undergraduate geoscientist, specialising in geophysics, at **The University of Durham**, and I will be finishing my BSc in 2027.
 
-<!--
-**Blake-Sagan/Blake-Sagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
 
-Here are some ideas to get you started:
+Included on my profile are projects from both work within university, and independant work created to further my understanding.
+### University:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Geodynamic Modelling of a cooling igneous intrusion, using both explicit and implicit modelling methods to show the strengths and weaknesses of the forward Euler, backward Euler and Crank-Nicholson methods of discretization.
+
+### Independant:
+
+- Statistical Modelling of the nucleation of a crystal during metamorphism
+
+## Skills
+Below is what I have experience in using.
+
+- **Programming Languages**: Python (Intermediate), R (Beginner), Matlab (Beginner)
+- **Data Processing**: Numpy (Advanced), RGPR (Intermediate), Pandas (Intermediate), PyGimli (Beginner), SciPy (Beginner)  
+- **Data Visualisation**: Matplotlib (Intermediate), ArcGIS (Intermediate)
+
+
+
